@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Atividade-02-CalcularParamentro/Atividade-02-CalcularParamentro.iml" filepath="$PROJECT_DIR$/Atividade-02-CalcularParamentro/Atividade-02-CalcularParamentro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DIO-trilha-java-basico.iml" filepath="$PROJECT_DIR$/.idea/DIO-trilha-java-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Debugging Java/Debugging Java.iml" filepath="$PROJECT_DIR$/Debugging Java/Debugging Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EstruturasDeRepeticao/EstruturasDeRepeticao.iml" filepath="$PROJECT_DIR$/EstruturasDeRepeticao/EstruturasDeRepeticao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Exceptions/Exceptions.iml" filepath="$PROJECT_DIR$/Exceptions/Exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploList/ExemploList.iml" filepath="$PROJECT_DIR$/ExemploList/ExemploList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploMap/ExemploMap.iml" filepath="$PROJECT_DIR$/ExemploMap/ExemploMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploOrdenacaoList/ExemploOrdenacaoList.iml" filepath="$PROJECT_DIR$/ExemploOrdenacaoList/ExemploOrdenacaoList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExemploSet/ExemploSet.iml" filepath="$PROJECT_DIR$/ExemploSet/ExemploSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExercicioDeCalculo/ExercicioDeCalculo.iml" filepath="$PROJECT_DIR$/ExercicioDeCalculo/ExercicioDeCalculo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LogicaCondicional-ControledeFluxos/LogicaCondicional-ControledeFluxos.iml" filepath="$PROJECT_DIR$/LogicaCondicional-ControledeFluxos/LogicaCondicional-ControledeFluxos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MinhaClasse/MinhaClasse.iml" filepath="$PROJECT_DIR$/MinhaClasse/MinhaClasse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOAula01/OOAula01.iml" filepath="$PROJECT_DIR$/OOAula01/OOAula01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOAula02/OOAula02.iml" filepath="$PROJECT_DIR$/OOAula02/OOAula02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOAula03/OOAula03.iml" filepath="$PROJECT_DIR$/OOAula03/OOAula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOAula04/OOAula04.iml" filepath="$PROJECT_DIR$/OOAula04/OOAula04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOaula05/OOaula05.iml" filepath="$PROJECT_DIR$/OOaula05/OOaula05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OperadoresLogicos/OperadoresLogicos.iml" filepath="$PROJECT_DIR$/OperadoresLogicos/OperadoresLogicos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeiroDesafioJava/PrimeiroDesafioJava.iml" filepath="$PROJECT_DIR$/PrimeiroDesafioJava/PrimeiroDesafioJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SmartTv/SmartTv.iml" filepath="$PROJECT_DIR$/SmartTv/SmartTv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StreamApi/StreamApi.iml" filepath="$PROJECT_DIR$/StreamApi/StreamApi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tipos-variaveis/Tipos-variaveis.iml" filepath="$PROJECT_DIR$/Tipos-variaveis/Tipos-variaveis.iml" />
+    </modules>
+  </component>
+</project>
