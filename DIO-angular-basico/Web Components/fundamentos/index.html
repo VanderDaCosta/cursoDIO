@@ -6,6 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Portal de noticías galacticas</title>
     <link rel="stylesheet" href="styles/card.css">
+
+    <!--Este atributo booleano é definido para indicar a um navegador que o script deve 
+        ser executado após a análise do documento, mas antes de ser disparado.
+    Então ele so vai executar esse script depois que a Dom for concluida-->
+    <script src="src/components/CardNews.js" defer></script>
+    <script src="src/components/TituloDinamico.js" defer></script>
 </head>
 
 <body>
@@ -26,6 +32,13 @@
 
 
     </div>
-</body>
+
+    <card-news 
+        autor="Vander"
+        title="Darth Vader Contrata"
+        link-url="www.google.com"
+        contet="Darth Vader procura desenvolvedores que sabem trabalhar com componentes"
+    >
+</card-news>
 
 </html>
