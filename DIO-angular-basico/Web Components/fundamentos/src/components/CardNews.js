@@ -36,7 +36,8 @@ class Cardnews extends HTMLElement {
         cardRight.setAttribute("class", "cardRight");
 
         const newsImage = document.createElement("img");
-        newsImage.src = "assets/darthVader.webp";
+        newsImage.alt = "Foto do Dath Vader";
+        newsImage.src = this.getAttribute("photo");
         cardRight.appendChild(newsImage);
 
         componentRoot.appendChild(cardLeft);
@@ -47,7 +48,51 @@ class Cardnews extends HTMLElement {
     }
 
     styles() {
+        const style = document.createElement("style");
+        style.textContent = `
+            .card {
+                width: 80%;
+                box-shadow: 10px 10px 31px -6px rgba(0, 0, 0, 0.75);
+                -webkit-box-shadow: 10px 10px 31px -6px rgba(0, 0, 0, 0.75);
+                -moz-box-shadow: 10px 10px 31px -6px rgba(0, 0, 0, 0.75);
+                display: flex;
+                align-items: center;
+                flex-direction: row;
+                justify-content: space-between;
+                padding: 10px
+            }
 
+            .cardLeft {
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                padding-left: 10px;
+            }
+
+            .cardLeft>span {
+                font-weight: 400;
+            }
+
+            .cardLeft>a {
+                margin-top: 15px;
+                font-size: 25px;
+                font-weight: bold;
+                text-decoration: none;
+                color: #000;
+            }
+
+            .cardLeft>p {
+                color: #808080;
+            }
+
+            .cardRight>img {
+                width: 350px;
+                padding: 5px;
+            }
+        `;
+
+
+        return style;
     }
 }
 
